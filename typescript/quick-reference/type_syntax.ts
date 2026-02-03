@@ -1,3 +1,4 @@
+// @ts-nocheck - tells TypeScript to ignore errors in that file
 // TYPE SYNTAX - The basics you'll use constantly
 
 // PRIMITIVES - the building blocks

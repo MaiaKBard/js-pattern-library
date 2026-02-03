@@ -1,3 +1,4 @@
+// @ts-nocheck - tells TypeScript to ignore errors in that file
 // BEGINNER GOTCHAS - Things that trip people up!
 
 // GOTCHA 1: Arrays need parentheses for union types

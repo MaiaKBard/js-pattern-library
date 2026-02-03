@@ -1,3 +1,4 @@
+// @ts-nocheck - tells TypeScript to ignore errors in that file
 // TYPE VS INTERFACE - When to use which
 
 // TYPE ALIAS - use for simple types and unions

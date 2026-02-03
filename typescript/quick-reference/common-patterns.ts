@@ -1,3 +1,4 @@
+// @ts-nocheck - tells TypeScript to ignore errors in that file
 // COMMON PATTERNS - Patterns you'll use over and over
 
 // PATTERN 1: Array of objects

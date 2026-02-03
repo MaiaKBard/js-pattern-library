@@ -1,3 +1,4 @@
+// @ts-nocheck - tells TypeScript to ignore errors in that file
 // COMMON TYPESCRIPT ERRORS & FIXES
 
 // ERROR: Type 'string' is not assignable to type 'number'

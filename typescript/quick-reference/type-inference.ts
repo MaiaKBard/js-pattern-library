@@ -1,3 +1,4 @@
+// @ts-nocheck - tells TypeScript to ignore errors in that file
 // TYPE INFERENCE - TypeScript is smart! You don't always need to write types
 
 // TypeScript can INFER (figure out) types from values:

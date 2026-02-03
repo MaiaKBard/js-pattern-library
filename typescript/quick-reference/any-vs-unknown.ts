@@ -1,3 +1,5 @@
+// @ts-nocheck - tells TypeScript to ignore errors in that file
+
 // ANY vs UNKNOWN - When you don't know the type
 
 // ❌ any - turns off ALL type checking (dangerous!)
